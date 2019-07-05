@@ -1,7 +1,11 @@
 # Entwurfsentscheidungen
 
+(card42 ADR als Bild)
+
 In Software-Projekten werden kontinuierlich Entscheidungen getroffen.
-Wichtige Entscheidungen sollten gemeinsam getroffen und in Form eines Architecture Decision Record aufgeschrieben werden.
+
+Wir beschreiben hier unsere Empfehlungen zum Vorgehen und wie diese mit ADRs festgehalten werden.
+
 
 ## Beispiele
 
