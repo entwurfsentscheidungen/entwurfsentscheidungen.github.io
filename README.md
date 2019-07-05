@@ -1,13 +1,24 @@
 # Entwurfsentscheidungen
 
+(Titelbild)
+
 (card42 ADR als Bild)
 
 In Software-Projekten werden kontinuierlich Entscheidungen getroffen.
 
-Wir beschreiben hier unsere Empfehlungen zum Vorgehen und wie diese mit ADRs festgehalten werden.
+> Wie müssen wir Entscheidungen treffen, um weiterhin flexibel zu bleiben?
+>
+> &mdash; <cite>[Simon Harrer](https://twitter.com/simonharrer) and [Jochen Christ](https://twitter.com/jochen_christ)</cite>
 
+Wir beschreiben hier unsere pragmatischen Empfehlungen und warum Architecture Decision Records helfen.
 
 ## Beispiele
+
+- Vertikalisierung/SCS (TBD: Das ist eine sehr globale Entscheidung, sinnvoll als ADR?)
+- Audit Trail
+- Idempotenz
+- Rate Limit
+- Nachrichtenparkplatz
 
 
 ## Best Practices / Empfehlung
@@ -24,4 +35,6 @@ Wir beschreiben hier unsere Empfehlungen zum Vorgehen und wie diese mit ADRs fes
 - Keine Änderungen erlauben
 
 
+## Mitmachen
 
+- ADR Upload / Links (als Pull Request)
